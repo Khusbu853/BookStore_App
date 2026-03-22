@@ -44,3 +44,8 @@ src/
 ├── screens/        # App screens
 └── utils/          # Utility functions
 ```
+
+
+## 🎥 App Demo
+
+[▶️ Watch the demo](assets/Bookstore_app.mp4)
