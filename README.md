@@ -48,4 +48,4 @@ src/
 
 ## 🎥 App Demo
 
-[▶️ Watch the demo](assets/Bookstore_app.mp4)
+[▶️ Watch the demo](course/assets/Bookstore_app.mp4)
